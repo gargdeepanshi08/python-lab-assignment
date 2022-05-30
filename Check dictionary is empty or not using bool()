@@ -1,0 +1,4 @@
+D1 = {}
+print("The actual dictionary is:", str(D1))
+result = not bool(D1)
+print("Is the given dictionary empty? :", result)
